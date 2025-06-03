@@ -31,8 +31,6 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=DichanShrestha&theme=default&hide_border=false&include_all_commits=true&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=DichanShrestha&theme=default&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DichanShrestha&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=DichanShrestha.DichanShrestha)
