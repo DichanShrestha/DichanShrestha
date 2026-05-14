@@ -4,7 +4,7 @@
 </h1>
 
 # 💫 About Me:
-🎓 Pursuing a BSc (Hons) in Information Technology at Techspire College, Kathmandu.<br>💻 Over 2 years of MERN stack experience and around a year of professional work, specializing in Next.js and Node.js for building dynamic UIs, internal tools, agency websites, and CRM applications.<br>🛠️ Built and deployed several projects, including an e-commerce platform and CMS, and currently developing a large-scale CRM app using solid system design principles.<br>🌍 Fluent in Nepali and English, with an active GitHub and consistent content creation on X.<br>🚀 Passionate about building high-performance systems and helping business owners bring their ideas to life with tailored web solutions.
+🎓 Pursuing a BSc (Hons) in Information Technology at Techspire College, Kathmandu.<br>💻 Over 2 years of MERN stack experience and around a year of professional work, specializing in Next.js and Node.js for building dynamic UIs, internal tools, agency websites, and CRM applications.<br>🛠️ Built and deployed several projects, including an e-commerce platform and CMS, and currently developing a large-scale CRM app using solid system design principles.<br>🌍 Fluent in Nepali and English, active on GitHub, and currently building [KnowChat.pro](https://knowchat.pro) <br>🚀 Passionate about building high-performance systems and helping business owners bring their ideas to life with tailored web solutions.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/DichanShrestha) 
